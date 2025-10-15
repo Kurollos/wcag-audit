@@ -6,7 +6,7 @@ De instructies van deze opdracht staan in [INSTRUCTIONS](https://github.com/fdnd
 
 
 ## Titel Website
-
+https://saint-morris.nl/
 Welke website heb je getest? Beschrijf de website en voeg een screenshot toe.
 Saint Morris Argentijnse Restaurant.
 ![IMG_6825](https://github.com/user-attachments/assets/02ff8789-fbc8-4efd-b393-e30997689b46)
@@ -55,7 +55,6 @@ Verbeteren van live-regions en ARIA-rollen bij dynamische content.
 Over het geheel genomen kan de gebruikerservaring voor mensen met een visuele beperking met relatief kleine aanpassingen significant verbeteren.
 
 De Wiki Linkje https://github.com/Kurollos/wcag-audit/wiki
-https://saint-morris.nl/
 
 ## Licentie
 
