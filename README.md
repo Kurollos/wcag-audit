@@ -55,6 +55,7 @@ Verbeteren van live-regions en ARIA-rollen bij dynamische content.
 Over het geheel genomen kan de gebruikerservaring voor mensen met een visuele beperking met relatief kleine aanpassingen significant verbeteren.
 
 De Wiki Linkje https://github.com/Kurollos/wcag-audit/wiki
+https://saint-morris.nl/
 
 ## Licentie
 
